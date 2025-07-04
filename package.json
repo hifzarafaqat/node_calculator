@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node app.js",
-    "test": "./node_modules/.bin/jest"
+    "test": "jest"
   },
   "author": "Patrik Nygren",
   "license": "ISC",
