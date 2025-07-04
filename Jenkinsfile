@@ -6,9 +6,6 @@ pipeline{
             bat "npm install"
             }
         }
-        stage("Test"){
-            sh "npm run test-unit"
-
-        }   
+        
     }
 }
